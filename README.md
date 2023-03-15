@@ -1,13 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Evelina ✌️
 
-### - 🔭 I’m currently working on ...
+### - I'm an aspiring data analyst, passionate about problem-solving and learning everything I can to change my career path 🚀
+
+### - Currently, I am learning SQL, Python and Power BI. Will tackle more analytics tools in the near future ⭐
+
+### - Reach out to me on LinkedIn or my email ✉️
+
+### Fun fact: I have three cats 😸
 
 <!--
 **Evelina-Siavris/Evelina-Siavris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-### - 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
