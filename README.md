@@ -1,6 +1,6 @@
 ### Hi there, I'm Evelina ✌️
 
-### - I'm a junior data analyst based in Vilnius, Lithuania. 
+### I'm a junior data analyst based in Vilnius, Lithuania. 
 
 ### I decided to change my career path to data analytics, because of my vast interest in data and the entire process of analyzing. It all comes from my passion to solve problems - specifically using insightful research. Puzzles have always been a favorite of mine! 🚀
 
