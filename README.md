@@ -1,10 +1,12 @@
 ### Hi there, I'm Evelina ✌️
 
-### - I'm an aspiring data analyst, passionate about problem-solving and learning everything I can to change my career path 🚀
+### - I'm a junior data analyst based in Vilnius, Lithuania. 
 
-### - Currently, I am learning SQL, Python and Power BI. Will tackle more analytics tools in the near future ⭐
+### I decided to change my career path to data analytics, because of my vast interest in data and the entire process of analyzing. It all comes from my passion to solve problems - specifically using insightful research. Puzzles have always been a favorite of mine! 🚀
 
-### - Reach out to me on LinkedIn ✉️
+### Having successfully graduated from the Vilnius Coding School Data Analytics course, studying a lot on my own and finishing multiple DataCamp courses - I am very eager to learn everything I can to grow and excel my career. ⭐
+
+### I invite you to look at projects I've worked on and feel free to contact me. ✉️ 
 
 ### Fun fact: I have three cats 😸
 
