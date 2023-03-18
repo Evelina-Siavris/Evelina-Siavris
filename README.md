@@ -4,7 +4,7 @@
 
 ### - Currently, I am learning SQL, Python and Power BI. Will tackle more analytics tools in the near future ⭐
 
-### - Reach out to me on LinkedIn or my email ✉️
+### - Reach out to me on LinkedIn ✉️
 
 ### Fun fact: I have three cats 😸
 
