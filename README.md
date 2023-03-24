@@ -6,7 +6,7 @@
 
 ### Having successfully graduated from the Vilnius Coding School Data Analytics course, studying a lot on my own and finishing multiple DataCamp courses - I am very eager to learn everything I can to grow and excel my career. ⭐
 
-### I invite you to look at projects I've worked on and feel free to contact me on LinkedIn, email or my website www.datawitheva.com ✉️ 
+### I invite you to look at projects I've worked on and feel free to contact me on LinkedIn, email or my website ✉️ 
 
 ### Fun fact: I have three cats 😸
 
